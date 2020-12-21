@@ -11,6 +11,8 @@ namespace HalloWorld
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hallo DMS World!");
+
+			Console.WriteLine("Secon line!");
 		}
 	}
 }
